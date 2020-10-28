@@ -52,3 +52,5 @@ Enumerate something
 $f(x)=\frac{1}{\sqrt{2\pi\sigma^{2}}}e^{-\frac{1}{2} \left(\frac{x-\mu}{\sigma}\right)}$
 
 Edit ni jg
+
+henlo owo
